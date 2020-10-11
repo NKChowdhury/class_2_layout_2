@@ -1,0 +1,48 @@
+header{
+
+}
+
+nav{
+    overflow: hidden;
+}
+.logo{
+    background-color: blue;
+    width: 20%;
+    float: left;
+    text-align: center;
+    
+}
+
+.menu{
+    background-color: chocolate;
+    width: 80%;
+    float: right;
+    text-align: center;
+    
+}
+
+.content{
+    overflow: hidden;
+}
+
+aside{
+background-color: darkgreen;
+height: 400px;
+width: 25%;
+float: right;
+text-align: center;
+}
+
+article{
+    background-color: darkolivegreen;
+    height: 400px;
+    width: 75%;
+    float: left;
+    text-align: center;
+}
+
+footer{
+background-color: darkorchid;
+text-align: center;
+
+}
